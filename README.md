@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zohaib Khan. I am passionate about Business Analysis, specializing in Data Analysis. I like to play around with the data.
+- 👋 Hi, I’m Zohaib. I am passionate about Business Analysis, specializing in Data Analysis. I like to play around with the data.
 
 
 <!---
