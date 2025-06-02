@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Data Analyst based in Adelaide, Australia, w
 
 With 2+ years of experience in Business Data Analysis and a Master's in Business Analytics from Victoria University, Australia, I’ve worked on everything from automotive AI to roadway data analytics. My day-to-day? Making data dance with the power of Power BI, Tableau, Python, SQL, and anything else that helps create user-centric solutions.
 
-My passion for data doesn’t stop at work – I’m currently working towards my Data Analysis program at Seneca Polytechnic to level up my skills and keep pushing boundaries.
+My passion for data doesn’t stop at work – I’m currently working as a Freelancer to solve my clients' business problems and keep pushing boundaries.
 
 🎯 Skills
 Data Visualization: Power BI, Tableau (I make dashboards so pretty, they might just make you cry)
