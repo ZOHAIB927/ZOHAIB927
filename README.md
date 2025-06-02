@@ -10,7 +10,8 @@ With 2+ years of experience in Business Data Analysis and a Master's in Business
 
 My passion for data doesn’t stop at work – I’m currently working as a Freelancer to solve my clients' business problems and keep pushing boundaries.
 
-🎯 Skills
+**🎯 Skills**
+
 Data Visualization: Power BI, Tableau (I make dashboards so pretty, they might just make you cry)
 
 Programming: Python Pandas, Java, HTML (Yes, I’m fluent in three languages... and they’re all code.)
@@ -20,7 +21,7 @@ Databases: SQL & NoSQL (Because one is never enough!)
 Other: Code Debugging & Documentation (Making bugs disappear like magic)
 
 
-👨‍💻 Experience
+**👨‍💻 Experience**
 Business Data Analyst | Freelancer | Adelaide, Australia
 August 2021 – January 2024
 
@@ -36,14 +37,14 @@ Designed and implemented AI-driven solutions to make vehicles smarter.
 Kept everything running smoothly by designing and maintaining databases (because data is the backbone of everything).
 Collaborated with cross-functional teams to deploy embedded systems (I call this “engineering magic”).
 
-🎓 Education
+**🎓 Education**
 Master of Business Analytics
 Victoria University, Australia (2018 – 2020)
 
 Bachelor of Business Administration (Hons)
 Iqra University, Pakistan (2013 – 2018)
 
-🏆 Certifications
+**🏆 Certifications**
 Data Analysis by Microsoft
 Microsoft SQL Server 2022
 Querying Microsoft SQL Server 2022
