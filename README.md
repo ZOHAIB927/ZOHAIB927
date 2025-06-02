@@ -22,6 +22,7 @@ Other: Code Debugging & Documentation (Making bugs disappear like magic)
 
 
 **👨‍💻 Experience**
+
 Business Data Analyst | Freelancer | Adelaide, Australia
 August 2021 – January 2024
 
@@ -38,6 +39,7 @@ Kept everything running smoothly by designing and maintaining databases (because
 Collaborated with cross-functional teams to deploy embedded systems (I call this “engineering magic”).
 
 **🎓 Education**
+
 Master of Business Analytics
 Victoria University, Australia (2018 – 2020)
 
@@ -45,6 +47,7 @@ Bachelor of Business Administration (Hons)
 Iqra University, Pakistan (2013 – 2018)
 
 **🏆 Certifications**
+
 Data Analysis by Microsoft
 Microsoft SQL Server 2022
 Querying Microsoft SQL Server 2022
