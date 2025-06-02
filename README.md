@@ -12,9 +12,13 @@ My passion for data doesn’t stop at work – I’m currently working as a Free
 
 🎯 Skills
 Data Visualization: Power BI, Tableau (I make dashboards so pretty, they might just make you cry)
+
 Programming: Python Pandas, Java, HTML (Yes, I’m fluent in three languages... and they’re all code.)
+
 Databases: SQL & NoSQL (Because one is never enough!)
+
 Other: Code Debugging & Documentation (Making bugs disappear like magic)
+
 
 👨‍💻 Experience
 Business Data Analyst | Freelancer | Adelaide, Australia
