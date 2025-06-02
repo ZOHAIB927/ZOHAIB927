@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a Data Analyst based in Adelaide, Australia, with a passion for turning complex data into meaningful insights (and maybe making it a little more fun along the way). With a background in agile methodologies, big data technologies, and a variety of programming languages, I’m here to solve your toughest data challenges (and throw in a bit of humor while I’m at it).
 
-**🚀 About me **
+**🚀 About me**
 
 With 2+ years of experience in Business Data Analysis and a Master's in Business Analytics from Victoria University, Australia, I’ve worked on everything from automotive AI to roadway data analytics. My day-to-day? Making data dance with the power of Power BI, Tableau, Python, SQL, and anything else that helps create user-centric solutions.
 
