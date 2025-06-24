@@ -14,9 +14,7 @@ My passion for data doesn’t stop at work – I’m currently working as a Free
 
 Data Visualization: Power BI, Tableau (I make dashboards so pretty, they might just make you cry)
 
-Programming: Python Pandas, Java, HTML (Yes, I’m fluent in three languages... and they’re all code.)
-
-Databases: SQL & NoSQL (Because one is never enough!)
+Programming: SQL, Python Pandas
 
 Other: Code Debugging & Documentation (Making bugs disappear like magic)
 
@@ -24,7 +22,7 @@ Other: Code Debugging & Documentation (Making bugs disappear like magic)
 **👨‍💻 Experience**
 
 Business Data Analyst | Freelancer | Adelaide, Australia
-August 2021 – January 2024
+August 2022 – January 2024
 
 I turned data into actionable insights through Power BI dashboards.
 Used SQL queries for cleaning, wrangling and data manipulation
@@ -34,9 +32,13 @@ Worked under tight deadlines and handled clients' issues without breaking a swea
 Business Data Analyst | ArcBlue Consulting | Melbourne, Australia
 Jan 2020 – Apr 2021
 
-Designed and implemented AI-driven solutions to make vehicles smarter.
-Kept everything running smoothly by designing and maintaining databases (because data is the backbone of everything).
-Collaborated with cross-functional teams to deploy embedded systems (I call this “engineering magic”).
+Elicited requirements from the stakeholders by using various techniques.
+Created and maintained documentation of scope.
+Did daily tasks related to data cleaning and data categorization.
+Used Alteryx to clean data as per the requirement.
+Used programming language like SQL to run various queries, in order to generate insights.
+Used Tableau to generate reports and dashboards.
+
 
 **🎓 Education**
 
@@ -48,15 +50,12 @@ Iqra University, Pakistan (2013 – 2018)
 
 **🏆 Certifications**
 
-Data Analysis by Microsoft
-Microsoft SQL Server 2022
-Querying Microsoft SQL Server 2022
-GitHub Professional Certificate
+Google Data Analytics
+Microsoft Power BI Data Analyst
 
 
 📫 How to reach me
 📧 Email: zhbkhan927@gmail.com
-🔗 LinkedIn: krish-naynil-pathak
 Feel free to explore my repositories, and let's connect if you need help with anything data-related! 😊
 
 <!--
