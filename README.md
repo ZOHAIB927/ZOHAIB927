@@ -51,11 +51,13 @@ Iqra University, Pakistan (2013 – 2018)
 **🏆 Certifications**
 
 Google Data Analytics
+
 Microsoft Power BI Data Analyst
 
 
 📫 How to reach me
 📧 Email: zhbkhan927@gmail.com
+
 Feel free to explore my repositories, and let's connect if you need help with anything data-related! 😊
 
 <!--
